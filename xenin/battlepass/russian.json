@@ -1,0 +1,44 @@
+{
+  "phrases": {
+  	"info": {
+  		"Tiers": ":tiers: уровней",
+  		"Rewards": ":rewards: наград",
+  		"Challenges": ":challenges: стадий испытаний"
+  	},
+  	"misc": {
+  		"Page": "СТРАНИЦА :currentPage:/:totalPages:",
+  		"Max": "МАКС. УРОВЕНЬ",
+  		"Unlock": "Разблокировать"
+  	},
+  	"purchase": {
+  		"Pass": "Приобрести Battle Pass",
+  		"Tiers": "Приобрести Уровни",
+  		"Website": {
+  			"Title": "Приобретение Battle Pass",
+  			"Body": "Для покупки перейдите в магазин на нашем веб-сайте",
+  			"Yes": "Перейти на веб-сайт",
+  			"No": "Забудьте",
+  			"Tiers": "Приобретение Уровней"
+  		}
+  	},
+  	"challenges": {
+  		"Challenges": ":challenges: испытаний",
+  		"Stages": "| :stages: стадий",
+  		"Star": {
+  			"Description": "Звёзд получите при выполнении этого испытания",
+  			"Tooltip": "Вы на стадии :currentStage: из :goal:"
+  		}
+  	},
+  	"notifications": {
+  		"Reward": "Вы завершили испытание [:name:] за награду в :stars: звёзд",
+  		"Stage": "Вы завершили стадию испытания [:name:] за награду в :stars: звёзд",
+  		"LevelUp": "Вы перешли на новый уровень Battle Pass номер :level:",
+  		"ClaimReward": "Пожалуйста, заберите ваши новые награды в Battle Pass!"
+  	},
+  	"tabs": {
+  		"BattlePass": "BATTLE PASS",
+  		"Challenges": "ИСПЫТАНИЯ",
+  		"Help": "ПОМОЩЬ"
+  	}
+  }
+}
