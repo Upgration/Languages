@@ -1,0 +1,53 @@
+{
+    "phrases": {
+      "commands": {
+        "Drop": "1x :item: fallen gelassen",
+        "DropAll": ":amount:x :item: fallen gelassen",
+        "Destroy": {
+          "Destroy": ":amount:x :item: wurden zerstört",
+          "Title": ":item: zerstören",
+          "Desc": "Bist du sicher, dass du :item: zerstören willst?",
+          "Yes": "Ja",
+          "No": "Nein"
+        },
+        "UnableHolster": "Du kannst diese Waffen nicht einstecken, weil dein Inventar voll ist."
+      },
+      "bank": {
+        "Title": "Inventar - Bank"
+      },
+      "inventory": {
+        "Title": "Inventar",
+        "Search": "Suchen",
+        "Money": ":money:",
+        "Shipments": ":amount: Waffen übrig",
+        "Tabs": {
+          "Inventory": "INVENTAR"
+        },
+        "Actions": {
+          "Equip": "Ausrüsten",
+          "Drop": "Fallen lassen",
+          "DropAll": "Alles fallen lassen",
+          "Use": "Benutzen",
+          "DropAmount": "Anzahl fallen lassen"
+        },
+        "Errors": {
+          "Invalid": "Ungültige Nummereingabe?",
+          "TooLow": "Nummereingabe zu niedrig.",
+          "TooHigh": "So viel kannst du nicht fallen lassen!"
+        },
+        "Fields": {
+          "Amount": "x:amount:",
+          "MaxAmount": "max x:amount:"
+        },
+        "Sort": {
+          "Unsorted": "Unsortiert",
+          "Alphabetically": "Alphabetisch"
+        },
+        "Pickup": {
+          "Markup": ":font::color:Drücke :/color::rarityColor:ALT + :key::/color:, um :name: deinem Inventar hinzuzufügen.:/color::/font:",
+          "Pickup": "Drücke ALT + :key:, um :name: deinem Inventar hinzuzufügen."
+        }
+      }
+    }
+  }
+  

@@ -1,0 +1,53 @@
+{
+    "phrases": {
+      "commands": {
+        "Drop": "Выброшен 1x :item:",
+        "DropAll": "Выброшено :amount:x :item:",
+        "Destroy": {
+          "Destroy": "Уничтожено :amount:x :item:",
+          "Title": "Уничтожить :item:",
+          "Desc": "Вы уверены, что хотите уничтожить :item:?",
+          "Yes": "Да",
+          "No": "Нет"
+        },
+        "UnableHolster": "Вы не можете убрать это оружие из-за ограниченного места в инвентаре"
+      },
+      "bank": {
+        "Title": "Инвентарь - Банк"
+      },
+      "inventory": {
+        "Title": "Инвентарь",
+        "Search": "Поиск",
+        "Money": ":money:",
+        "Shipments": ":amount: оружий осталось",
+        "Tabs": {
+          "Inventory": "ИНВЕНТАРЬ"
+        },
+        "Actions": {
+          "Equip": "Надеть",
+          "Drop": "Выбросить",
+          "DropAll": "Выбросить всё",
+          "Use": "Использовать",
+          "DropAmount": "Выбросить несколько"
+        },
+        "Errors": {
+          "Invalid": "Неправильный номер?",
+          "TooLow": "Слишком мало",
+          "TooHigh": "Вы не можете выбросить так много, потому что у вас есть не так много!"
+        },
+        "Fields": {
+          "Amount": "x:amount:",
+          "MaxAmount": "макс. x:amount:"
+        },
+        "Sort": {
+          "Unsorted": "Без сортировки",
+          "Alphabetically": "По алфавиту"
+        },
+        "Pickup": {
+          "Markup": ":font::color:Нажмите :/color::rarityColor:ALT + :key::/color: чтобы получить :name: в свой инвентарь:/color::/font:",
+          "Pickup": "Нажмите ALT + :key: чтобы получить :name: в свой инвентарь"
+        }
+      }
+    }
+  }
+  

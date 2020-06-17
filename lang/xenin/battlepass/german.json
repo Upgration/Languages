@@ -1,0 +1,44 @@
+{
+  "phrases": {
+  	"info": {
+  		"Tiers": ":tiers: Stufen",
+  		"Rewards": ":rewards: Belohnungen",
+  		"Challenges": ":challenges: Herausforderungsabschnitte"
+  	},
+  	"misc": {
+  		"Page": "SEITE :currentPage:/:totalPages:",
+  		"Max": "MAX STUFE",
+  		"Unlock": "Freischalten"
+  	},
+  	"purchase": {
+  		"Pass": "Battle Pass kaufen",
+  		"Tiers": "Stufen kaufen",
+  		"Website": {
+  			"Title": "Battle Pass kaufen",
+  			"Body": "Zum kaufen besuch bitte unseren Webshop.",
+  			"Yes": "Zum Webshop gehen",
+  			"No": "Abbrechen",
+  			"Tiers": "Stufen kaufen"
+  		}
+  	},
+  	"challenges": {
+  		"Challenges": ":challenges: Herausforderungen",
+  		"Stages": "| :stages: Abschnitte",
+  		"Star": {
+  			"Description": "Sterne werden beim Abschluss der Herausforderung vergeben.",
+  			"Tooltip": "Du bist bei Abschnitt :currentStage: von :goal:."
+  		}
+  	},
+  	"notifications": {
+  		"Reward": "Du hast die Herausforderung [:name:] abgeschlossen und :stars: Sterne erhalten.",
+  		"Stage": "Du hasten einen Abschnitt der Herausforderung [:name:] abgeschlossen und :stars: Sterne erhalten.",
+  		"LevelUp": "Dein Battle Pass Level ist auf :level: angestiegen!",
+  		"ClaimReward": "Bitte beanspruche deine neuen Belohnungen im Battle Pass!"
+  	},
+  	"tabs": {
+  		"BattlePass": "BATTLE PASS",
+  		"Challenges": "HERAUSFORDERUNGEN",
+  		"Help": "HILFE"
+  	}
+  }
+}

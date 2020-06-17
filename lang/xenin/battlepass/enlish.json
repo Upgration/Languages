@@ -1,0 +1,44 @@
+{
+  "phrases": {
+  	"info": {
+  		"Tiers": ":tiers: tiers",
+  		"Rewards": ":rewards: rewards",
+  		"Challenges": ":challenges: challenge stages"
+  	},
+  	"misc": {
+  		"Page": "PAGE :currentPage:/:totalPages:",
+  		"Max": "MAX TIER",
+  		"Unlock": "Unlock"
+  	},
+  	"purchase": {
+  		"Pass": "Purchase Battle Pass",
+  		"Tiers": "Purchase Tiers",
+  		"Website": {
+  			"Title": "Purchasing Battle Pass",
+  			"Body": "To purchase please go to the store on our website",
+  			"Yes": "Go to website",
+  			"No": "Nevermind",
+  			"Tiers": "Purchasing Tiers"
+  		}
+  	},
+  	"challenges": {
+  		"Challenges": ":challenges: challenges",
+  		"Stages": "| :stages: stages",
+  		"Star": {
+  			"Description": "Stars granted by completing this challenge",
+  			"Tooltip": "You are at stage :currentStage: out of :goal: stages"
+  		}
+  	},
+  	"notifications": {
+  		"Reward": "You completed challenge [:name:] for a reward of :stars: stars",
+  		"Stage": "You completed a stage for the challenge [:name:] for a reward of :stars: stars",
+  		"LevelUp": "You leveled up your Battle Pass to level :level:",
+  		"ClaimReward": "Please claim your new rewards in the Battle Pass!"
+  	},
+  	"tabs": {
+  		"BattlePass": "BATTLE PASS",
+  		"Challenges": "CHALLENGES",
+  		"Help": "HELP"
+  	}
+  }
+}
