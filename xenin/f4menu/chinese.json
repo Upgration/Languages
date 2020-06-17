@@ -1,0 +1,208 @@
+{
+    "phrases": {
+        "dashboard": {
+            "tabs": {
+                "general": {
+                    "name": "General",
+                    
+                    "online": {
+                        "title": "在线",
+                        "data": ":online:/:max:"
+                    },
+                    "totalMoney": {
+                        "title": "总金钱"
+                    },
+                    "jobDistribution": {
+                        "title": "职业描述"
+                    },
+                    "richestPlayer": {
+                        "title": "最富有玩家",
+                        "economy": ":percentage:% of economy"
+                    }
+                },
+                "economy": {
+                    "name": "经济示图",
+                    "noData": "No Data",
+                    "days": [
+                        "Today",
+                        "1 day ago",
+                        "2 days ago",
+                        "3 days ago",
+                        "4 days ago",
+                        "5 days ago",
+                        "6 days ago"
+                    ]
+                }
+            },
+            "favouriteJobs": {
+                "title": "最喜欢的工作",
+                "none": "No favourite jobs"
+            },
+            "onlineStaff": {
+                "title": "在线管理",
+                "none": "No online staff"
+            }
+        },
+        "jobs": {
+            "top": {
+                "search": "按职业名称搜索",
+                "sort": {
+                    "default": "默认排序",
+                    "alphabetically": "按字母顺序",
+                    "highestSalary": "按最高工资",
+                    "lowestSalary": "按最低工资",
+                    "mostPeople": "最多玩家",
+                    "leastPeople": "最多玩家"
+                },
+                "showRecentJobs": "显示最近的工作",
+                "showFavouriteJobs": "显示最喜欢的工作"
+            },
+            "slideout": {
+                "tabs": {
+                    "description": "描述",
+                    "weapons": "武器",
+                    "ranks": "RANKS"
+                },
+                "levelRequirement": "等级: :level:",
+                "prestigeRequirement": "信誉: :prestige:",
+                "donatorJob": "捐赠者的工作!",
+                "button": {
+                    "become": "成为",
+                    "areThisJob": "你就是这个工作",
+                    "jobIsFull": "工作已满",
+                    "customCheckFailed": "检查失败",
+                    "tooLowLevel": "等级太低",
+                    "tooLowPrestige": "信誉太低"
+                },
+                "anHour": "/h"
+            },
+            "favouriteJobs": "最喜欢的工作",
+            "recentJobs": "最近的工作",
+            "salary": "Salary: :money:"
+        },
+        "items": {
+            "tabs": {
+                "entities": "实体",
+                "weapons": "武器",
+                "shipments": "货物",
+                "ammo": "子弹",
+                "vehicles": "载具",
+                "food": "食物"
+            },
+            "food": {
+                "categoryName": "食物"
+            },
+            "vehicles": {
+                "categoryName": "载具"  
+            },
+            "top": {
+                "search": "按名字搜索",
+                "sort": {
+                    "default": "默认排序",
+                    "alphabetically": "按字母顺序",
+                    "highestPrice": "按最高工资",
+                    "lowestPrice": "按最低工资"
+                },
+                "showFavourite": "显示最喜欢的"
+            },
+            "favourites": "最喜欢的"
+        },
+        "options": {
+            "general": {
+                "name": "一般性",
+                
+                "dropMoney": {
+                    "name": "Drop Money",
+                    "desc": "Amount of money you want to drop",
+                    "placeholder": "$1000"
+                },
+                "giveMoney": {
+                    "name": "Give Money",
+                    "desc": "Give money to the person you are facing",
+                    "placeholder": "$1000"
+                },
+                "changeName": {
+                    "name": "Change Name",
+                    "desc": "Type your new name out",
+                    "placeholder": "Name"
+                },
+                "changeJobTitle": {
+                    "name": "Change Job Title",
+                    "desc": "Type your new job title",
+                    "placeholder": "Job title"
+                },
+                "requestGunLicense": {
+                    "name": "Request Gun License"
+                },
+                "sellAllDoors": {
+                    "name": "Sell All Doors"
+                },
+                "dropWeapon": {
+                    "name": "Drop Weapon"
+                },
+                "cheque": {
+                    "name": "Cheque",
+                    "desc": "Write a cheque to a specific player",
+                    "amount": "$1000"
+                }
+            },
+            "mayor": {
+                "name": "市长",
+                
+                "startLockdown": { 
+                    "name": "Start Lockdown"
+                },
+                "stopLockdown": {
+                    "name": "Stop Lockdown"
+                },
+                "giveLicense": {
+                    "name": "Give License"
+                },
+                "addLaw": {
+                    "name": "Add Law",
+                    "desc": "Add a law",
+                    "placeholder": "Law"
+                },
+                "removeLaw": {
+                    "name": "Remove Law",
+                    "desc": "Remove a law",
+                    "placeholder": "Law"
+                },
+                "resetLaws": {
+                    "name": "Reset Laws"
+                },
+                "placeLawboard": {
+                    "name": "Place Lawboard"
+                },
+                "broadcastToCity": {
+                    "name": "Broadcast to the city",
+                    "desc": "What message would you like to broadcast?",
+                    "placeholder": "Message"
+                },
+                "startLottery": {
+                    "name": "Start Lottery",
+                    "desc": "How much money to enter the lottery?",
+                    "placeholder": "$1000"
+                }
+            },
+            "police": {
+                "name": "警察",
+                
+                "wanted": {
+                    "name": "Make Wanted",
+                    "desc": "Write the reason & select a player",
+                    "placeholder": "Reason"
+                },
+                "warrant": {
+                    "name": "Make a warrant",
+                    "desc": "Write the reason & select a player",
+                    "placeholder": "Reason"
+                },
+                "unwarrant": {
+                    "name": "Remove a warrant",
+                    "desc": "Select a player"
+                }
+            }
+        }
+    }
+}
