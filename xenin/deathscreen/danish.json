@@ -1,0 +1,22 @@
+{
+    "phrases": {
+      "tabs": {
+        "standalone": {
+          "flips": "Flips",
+          "history": "History",
+          "stats": "Stats"
+        },
+        "f4": {
+          "flips": "FLIPS",
+          "history": "HISTORY",
+          "stats": "STATS"
+        }
+      },
+      "flips": {
+        "title": ":number: active flips",
+        "createFlip": "Create Coinflip",
+        "maxFlips": "You can maximum have :number: coinflips active!"
+      }
+    }
+  }
+  

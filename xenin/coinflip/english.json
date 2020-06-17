@@ -1,0 +1,64 @@
+{
+    "phrases": {
+      "ui": {
+        "tabs": {
+          "standalone": {
+            "flips": "Flips",
+            "history": "History",
+            "stats": "Stats"
+          },
+          "f4": {
+            "flips": "FLIPS",
+            "history": "HISTORY",
+            "stats": "STATS"
+          }
+        },
+        "flips": {
+          "title": ":flips: active flips",
+          "createFlip": "Create coinflip",
+          "maxFlipsReached": "You can maximum have :number: coinflips active!",
+          "row": {
+            "join": "Join",
+            "delete": "Delete",
+            "cantAfford": "You can't afford to enter this coinflip! You need :number:"
+          },
+          "create": {
+            "title": "Create a coinflip",
+            "howMuch": "How much would you like to bet?",
+            "currency": "Currency",
+            "announceCreation": "Announce creation?",
+            "announceWinner": "Announce winner?",
+            "timeLimit": {
+              "msg": "Time limit",
+              "time": ":number: min"
+            },
+            "create": "Create",
+            "no": "NO",
+            "yes": "YES"
+          },
+          "game": {
+             "countdown": "Coinflip - flipping in :number:",
+             "flipping": "Coinflip - flipping",
+             "blue": "Blue",
+             "red": "Red"
+          }
+        },
+        "history": {
+          "title": "Last :flips: coinflips",
+          "won": "WON",
+          "lost": "LOST"
+        }
+      },
+      "chat": {
+        "done": ":winner: have won :money: in a coinflip against :loser:",
+        "created": ":creator: have made a coinflip worth :money:",
+        "createdNotification": "Created coinflip with ID :id:",
+        "won": "You have won :money: in a coinflip!",
+        "deleted": {
+          "timeLimit": "Your coinflip with ID :id: has reached its timelimit. You have been refunded :money:",
+          "user": "You deleted your coinflip with ID :id:. You have been refunded :money:"
+        }
+      }
+    }
+  }
+  
