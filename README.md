@@ -19,6 +19,9 @@ We're open to support new addons all the time, just open an issue with the GModS
 ## Editing language files
 Please feel free to open a Pull Request (PR) if you find a problem / Gramma mistake in the language files.
 
+## Language files that need to be revalidated
+*None atm*
+
 ## Addons that are being added
 - Code Blue
     - Blues ATM
