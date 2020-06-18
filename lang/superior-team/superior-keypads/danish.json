@@ -23,7 +23,7 @@
         "keypad": {
             "clear": "CLR",
             "enter": "ENTER",
-            "undone": "Undone Superior Keypad",
+            "undone": "Fjernede Superior Keypad",
             "cleanupName": "Superior Keypads",
             "cleanedUp": "Ryddet op alle Superior Keypads",
             "reachedLimit": "Du har nået Superior Keypads begrænsning!",
