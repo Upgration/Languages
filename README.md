@@ -13,6 +13,9 @@ This is a repo for a language system that support GmodStore Addons
 - Superior Team
     - Superior Keypads
 
+## Integretion
+For integretion with your own addon, please go over to our [Wiki](https://github.com/Upgration/Languages/wiki)
+
 ## Suggestion
 We're open to support new addons all the time, just open an issue with the GModStore link for the addon, and we'll contact the creator of the addon.
 
