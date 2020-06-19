@@ -52,7 +52,6 @@ Please feel free to open a Pull Request (PR) if you find a problem / Gramma mist
     - Zero's oilRush
     - Zero's RetroMiner
     - Zero's Fruit Slicer
-- Zero's Dev Team
     - Zero's Lawnmover Man
     - Zero's Cracker Maker
     - Zero's AdvertKit
