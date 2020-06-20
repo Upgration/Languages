@@ -1,61 +1,46 @@
 {
-    "phrases": {
-        "systemName": "Superior Keypads",
-        "toolgun": {
-            "name": "Keypad Placer",
-            "description": "Spawn and set up your own keypad",
-            "selectFadingDoor": "Select a prop to turn into a fading door",
-            "placeKeypad": "Place the keypad where you are looking",
-            "deleteKeypad": "Delete a keypad",
-            "cancelPlacement": "Cancel Placement",
-            "updateSetting": "Update a keypad's settings",
-            "menu": {
-                "password": "Password:",
-                "passwordHint": "4 digit maximum, numerical passwords only.",
-                "secureMode": "Enable Secure Mode:",
-                "secureModeHint": "Hides the password when you type it.",
-                "fadeMaterial": "Fade Material:",
-                "fadeMaterialHint": "The material to make your fading door turn into when faded.",
-                "fadeTime": "Fade Time:",
-                "fadeTimeHunt": "The time to keep your fading door open."
-            }
-        },
-        "keypad": {
-            "clear": "CLR",
-            "enter": "ENTER",
-            "undone": "Undone Superior Keypad",
-            "cleanupName": "Superior Keypads",
-            "cleanedUp": "Cleaned up all Superior Keypads",
-            "reachedLimit": "You've reached the Superior Keypads limit!",
-            "PersonalLimit": "You've reached your personal Superior Keypads limit!"
-        },
-        "cracker": {
-            "screenHint": "Click on a keypad\nto crack it",
-            "description": "Click on a keypad a wait to crack it",
-            "crackingMessage": "Cracking Keypad..."
-        },
-        "checker": {
-            "name": "Keypad Checker",
-            "description": "Click on a keypad to see info about it and it's connected fading door.",
-            "hint": "Left Click on a keypad to see info about it and it's connected fading door.\nRight Click to deselect.",
-            "showData": "Keypad Type: %t\nProtected: %p\nOwner: %o"
-        },
-        "friends": {
-            "menuName": "Keypad Friends",
-            "menuTopHint": "The friends you set here will be able to use the fingerprint scanner on your keypads.\nThese will save across different servers and restarts.",
-            "listTitle": "Your friends:",
-            "playerSteamID": "SteamID64",
-            "playerName": "Name",
-            "remove": "Remove Friend",
-            "addSteamID": "Add SteamID64",
-            "addOnlinePlayer": "Add online player:",
-            "noPlayersAvail": "[No available players]",
-            "tooMany": "You have too many friends, truncating!",
-            "addTitle": "Add a friend",
-            "addInputString": "Enter the SteamID64 of the friend you want to add:",
-            "addButton": "Add",
-            "addCancelButton": "Cancel",
-            "refresh": "Refresh"
-        }
-    }
+	"phrases": {
+		"keypadUndone": "Undone sKeypad",
+		"friendsAddSteamID": "Add SteamID64",
+		"keypadCleanupName": "sKeypads",
+		"toolgunName": "Keypad Placer",
+		"friendsAddCancelButton": "Cancel",
+		"friendsMenuName": "Keypad Friends",
+		"menuFadeTime": "Fade Time:",
+		"friendsAddOnlinePlayer": "Add online player:",
+		"friendsRemove": "Remove Friend",
+		"menuFadeMaterialHint": "The material to make your fading door turn into when faded.",
+		"checkerName": "sKeypad Checker",
+		"friendsAddInputString": "Enter the SteamID64 of the friend you want to add:",
+		"toolgunPlaceKeypad": "Place the keypad where you are looking",
+		"toolgunSelectFadingDoor": "Select a prop to turn into a fading door",
+		"systemName": "sKeypads",
+		"keypadReachedLimit": "You've reached the sKeypad limit!",
+		"menuPassword": "Password:",
+		"friendsMenuTopHint": "The friends you set here will be able to use the fingerprint scanner on your keypads.\nThese will save across different servers and restarts.",
+		"checkerHint": "Left Click on a keypad to see info about it and it's connected fading door.\nRight Click to deselect.",
+		"friendsNoPlayersAvail": "[No available players]",
+		"toolgunDeleteKeypad": "Delete a keypad",
+		"checkerShowData": "Keypad Type: %t\nProtected: %p\nOwner: %o",
+		"crackerDescription": "Click on a keypad a wait to crack it",
+		"menuFadeTimeHint": "The time to keep your fading door open.",
+		"friendsAddButton": "Add",
+		"menuSecureMode": "Enable Secure Mode:",
+		"checkerDescription": "Click on a keypad to see info about it and it's connected fading door.",
+		"friendsListTitle": "Your friends:",
+		"keypadReachedPersonalLimit": "You've reached your personal sKeypad limit!",
+		"friendsTooMany": "You have too many friends, truncating!",
+		"friendsPlayerSteamID": "SteamID64",
+		"friendsPlayerName": "Name",
+		"toolgunDescription": "Spawn and set up your own keypad",
+		"toolgunUpdateSettings": "Update a keypad's settings",
+		"friendsAddTitle": "Add a friend",
+		"menuSecureModeHint": "Hides the password when you type it.",
+		"menuPasswordHint": "4 digit maximum, numerical passwords only.",
+		"toolgunCancelPlacement": "Cancel Placement",
+		"crackerCrackingMessage": "Cracking Keypad...",
+		"keypadCleanedUp": "Cleaned up all sKeypads",
+		"friendsRefresh": "Refresh",
+		"menuFadeMaterial": "Fade Material:"
+	}
 }
